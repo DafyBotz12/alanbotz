@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6281379753850@s.whatsapp.net",
+    "ownerName": "𝑫𝒂𝒇𝒚乂𝑾𝑰𝑩𝑼𝑺𝑶𝑭𝑻",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "𝑫𝒂𝒇𝒚乂𝑾𝑰𝑩𝑼𝑺𝑶𝑭𝑻",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "apikey is here",
+    "fake": "𝑫𝒂𝒇𝒚乂𝑾𝑰𝑩𝑼𝑺𝑶𝑭𝑻",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "GOPAY : 081379753850\nPulsa : 081379753850",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
